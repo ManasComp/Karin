@@ -52,8 +52,6 @@ namespace Korona1
             {
                 numbers.Add(Overeni.OverBezChyby(numbers_string[i]));   
             }
-            foreach (double cislo in numbers)
-                Console.WriteLine(cislo);
         }
     }
 }
